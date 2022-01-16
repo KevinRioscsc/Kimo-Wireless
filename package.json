@@ -1,7 +1,6 @@
 {
   "name": "website-it",
   "version": "0.1.0",
-  "homepage": "http://kimowireless.com",
   "private": true,
   "dependencies": {
     "cra-template": "1.1.2",
