@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Kimo-Wireless/static/css/main.a6637b5d.css",
+    "main.js": "/Kimo-Wireless/static/js/main.2415064b.js",
+    "static/media/Video.mp4": "/Kimo-Wireless/static/media/Video.7d1ea6a94986d5c2a068.mp4",
+    "static/media/Video4.mp4": "/Kimo-Wireless/static/media/Video4.49dd11218ee19749a5a3.mp4",
+    "static/media/Video3.mp4": "/Kimo-Wireless/static/media/Video3.e69e2107277655707d89.mp4",
+    "static/media/svg6.svg": "/Kimo-Wireless/static/media/svg6.5c4a7be79b0e35a109b806b9aed4f6b0.svg",
+    "static/media/svg5.svg": "/Kimo-Wireless/static/media/svg5.621255fef4a97cb8c4ba030b9d66bb73.svg",
+    "static/media/svg4.svg": "/Kimo-Wireless/static/media/svg4.43781de5926ee26b736eb626881fcc61.svg",
+    "index.html": "/Kimo-Wireless/index.html",
+    "main.a6637b5d.css.map": "/Kimo-Wireless/static/css/main.a6637b5d.css.map",
+    "main.2415064b.js.map": "/Kimo-Wireless/static/js/main.2415064b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6637b5d.css",
+    "static/js/main.2415064b.js"
+  ]
+}
